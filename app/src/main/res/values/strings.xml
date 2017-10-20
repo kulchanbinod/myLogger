@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Logger</string>
+    <string-array name="type">
+        <item>Work</item>
+        <item>Study</item>
+        <item>Leisure</item>
+        <item>Sport</item>
+    </string-array>
+</resources>
